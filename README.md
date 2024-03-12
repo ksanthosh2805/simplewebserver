@@ -85,8 +85,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+Output1:
 ![output](./Screenshot%202024-03-12%20112856.png)
-
+Output2:
 ![output](./image.png)
 
 ## RESULT:
